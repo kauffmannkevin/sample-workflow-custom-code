@@ -22,17 +22,13 @@
 // Edit percentages and owner IDs here
 const owners = [
   {
-    ownerId: 6090927,
-    percentage: 40
+    ownerId: 359964580,
+    percentage: 30
   },
   {
-    ownerId: 6305635,
-    percentage: 40
+    ownerId: 359964583,
+    percentage: 70
   },
-  {
-    ownerId: 6305638,
-    percentage: 20
-  }
 ];
 
 // Start of code
